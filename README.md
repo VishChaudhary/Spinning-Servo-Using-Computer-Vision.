@@ -7,7 +7,7 @@ This project uses the distance between the pads of your thumb and index finger t
 an Arduino. Additionally, if the thumb is closed: if 1 finger is up then the servo is spun to 45 degrees,
 if 2 fingers are up then the servo is spun to 90 degrees, 3 fingers- 135 degrees, and 4 fingers - 180 degrees (Max).
 The servo angle is determined using the webcam and accurately tracks the hand using opencv. The servo angle is sent
-to the arduino board using the serial port.
+to the Arduino board using the serial port.
 
 Author: Vish Chaudhary
 
