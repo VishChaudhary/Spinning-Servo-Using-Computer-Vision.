@@ -11,6 +11,6 @@ to the Arduino board using the serial port.
 
 Author: Vish Chaudhary
 
-Github: https://github.com/VishChaudhary
-
 Demo: https://youtu.be/WGUpUfKPl5Q
+
+Github: https://github.com/VishChaudhary
