@@ -1,6 +1,6 @@
 # Spinning-Servo-Using-Computer-Vision.
 
-Author: Vish Chaudhary
+#Author: Vish Chaudhary
 
 Demo: https://youtu.be/WGUpUfKPl5Q
 
